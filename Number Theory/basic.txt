@@ -1,0 +1,16 @@
+in a 4 bit memory system, total choices are 2^4, but
+binary representation of 16 - 10000 , which contain 5 bit,so maximum number stored in a 4 bit memory system is-2^4-1
+so in a 32 bit memory system maximum number stored is - 2^32-1
+but int contains maximum number as 2^31-1, as 1st bit is used for sign convention,
+while unsigned int contains maximum number as 2^32-1.
+
+In a binary representation 1 is known as set bit while 0 is known as unset bit.
+and indexing start from rightmost side, same as the array 
+rightmost bit is known as least significant bit while leftmost bit is known as most significant bit.
+
+
+
+*********IMPORTANT***************
+Given any integer x, we can see that its lowest significant bit is a divisor of x
+If x has more than one bit, we can repeatedly subtract the value corresponding to the lowest significant bit of x.
+When x finally has only one bit, finish the first step. In this step, we have only used each significant bit of x at most once.

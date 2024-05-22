@@ -1,0 +1,12 @@
+Acyclic undirected graph is tree.
+Tree with n nodes has n-1 edges.
+
+Connected Components of undirected graph - A set of nodes forms a connected component in an undirected graph if any node from the set of nodes can reach any other node by traversing edges.
+
+Depth of a node is the height of that node from the root node.
+Height is the maximum height of any leaf node from the root node.
+
+Diameter of a tree - maximum distance between any two nodes,
+Procedure - 
+find the node which has max depth and then run dfs taking that node as the root node,
+basically the node with max depth is surely a part of the diameter of the tree.

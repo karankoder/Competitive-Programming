@@ -1,0 +1,8 @@
+modulo is used when we have to handle large values.
+1) (a+b)%M= ((a%M)+(b%M))%M
+2) (a*b)%M= ((a%M)*(b%M))%M
+3) (a-b)%M= ((a%M)-(b%M)+M)%M
+4) (a/b)%M= 
+
+Useful techniques for CP-
+1) Pre computation techniques and hashing

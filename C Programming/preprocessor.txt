@@ -1,0 +1,143 @@
+ There are four phases for the C program to become executable. These are Pre-processing, compilation, assembly, and linking. In pre-processing, it includes removing comments, expansion of macro, and expansion of include files. In the compilation phase, assembly level instructions are generated. Whereas in the assembly phase, the assembly level instructions are converted into machine code, and in linking, it resolves the function calls. In short, it links the function implementation. Now let us move to the main topic of this tutorial, "Pre-processors in C."  
+
+
+
+Description
+
+#include
+
+This directive will insert a particular header from another file.
+
+#define A
+
+This will substitute a pre-processor macro.
+
+#undef
+
+Using #undef, we can undefine a pre-processor macro.
+
+#ifdef
+
+It will return true if this macro is defined.
+
+#if
+
+It will test if a compile time condition is true.
+
+#elif
+
+Using #elif, we can define #else and #if in one statement
+
+#endif
+
+It will end pre-processor conditional
+
+#error
+
+Using #error, we can print the error message on stderr.
+
+#pragma
+
+It will issue the special commands to the compiler, using a standardized method.
+
+ Pre-processors Examples:-
+
+The following are examples of pre-processors in C.
+
+#define ARRAY_LENGTH 46
+This directive tells the CPP to set the ARRAY_LENGTH with 46. 
+
+ #include <stdio.h>
+These directives will get stdio.h from system libraries.
+
+#undef FSIZE
+#define FSIZE 30
+#include "header file"
+
+#define Max_length 10     // here max_length is the preprocessor variable
+#define Area_OF_Circle(r) (3.1415*(r)*(r))  //macros
+
+#define MAXARRAYSIZE  = 100 //incorrect
+#define MAXARRAYSIZE 100;//correct 
+
+#define E 1111
+#undef E
+
+#ifdef M
+//execute code if true i.e., the macro is defined
+
+//pre-defined macros under pragma
+__DATE__:
+It prints the current date on to the screen. The date format it follows is MMMDDYYY.
+
+Syntax:
+
+#include <stdio.h>
+int main()
+{
+                printf( __DATE__);
+                return 0;
+}
+Output:
+
+Sep 15 2020
+Note: The output will be the current date.
+
+__TIME__:
+It prints the current time on to the screen. The date format it follows is HH:MM:SS.
+
+Syntax:
+
+#include <stdio.h>
+int main()
+{
+                printf( __TIME__);
+                return 0;
+}
+Output:
+
+17:15:20
+Note: The output will be the current time.
+
+__FILE__:
+It prints the current file name on to the screen. The name will be printed as a string literal.
+
+Syntax:
+
+#include <stdio.h>
+int main()
+{
+                printf( __FILE__);
+                return 0;
+}
+Output:
+
+main.c
+__LINE__:
+It prints the current line number on to the screen. The number will be printed as a decimal constant.
+
+Syntax:
+
+#include <stdio.h>
+int main()
+{
+                printf( “%d”__LINE__);
+                return 0;
+}
+Output:
+
+4
+__STDC__:
+It is used to check whether our program is being compiler using ANSI standard or not. It will return 1 if true.
+
+Syntax:
+
+#include <stdio.h>
+int main()
+
+    printf("%d\n", __STDC__);
+    return 0;
+}
+Output:
+
+1

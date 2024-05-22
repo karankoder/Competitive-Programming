@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+	<html xmlns="http://www.w3.org/1999/xhtml">
+		<head>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<title>Your Message Subject or Title</title>
+			
+		</head>
+		<body style="margin: 0;padding: 0;line-height: 1.6;font-size: 16px;">
+			<center class="wrapper" style="width: 100%;table-layout: fixed;padding-bottom: 40px;">
+				<img src="https://ik.imagekit.io/uf7cmces1/MailBanner-min_vAwbqNMsE.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1670841708601" alt="" class="webkit" style="border: 0;max-width: 600px;">
+				<div class="webkit" style="max-width: 600px;">
+					<table class="outer" align="center" style="border-spacing: 0;margin: 0 auto;width: 100%;max-width: 600px;font-family: sans-serif;color: #000000;">
+						<tr>
+							<td style="padding: 0;">
+								<table width="100%" style="border-spacing: 0;">
+
+									<tr>
+										<td style="padding: 0;">
+											<p class="nclrBold" style="line-height: 1.6;font-weight: bold;font-size: 16px !important;">
+												Hello, 
+											</p>
+										</td>
+									</tr>
+
+									<tr>
+										<td style="padding: 0;">
+											<p class="nclrBold" style="line-height: 1.6;font-weight: bold;font-size: 16px !important;">
+												Warm greetings to you. I am Karan Kumar Das, Marketing Coordinator
+												FMC Weekend '23, Indian Institute of Technology (BHU),
+												Varanasi.
+											</p>
+										</td>
+									</tr>
+
+									<tr>
+										<td style="padding: 0;">
+											<p style="line-height: 1.6;font-size: 16px !important; margin-top : 17px">
+												IIT BHU's Film and Media council presents the 9th edition
+												of <span class="bold" style="font-weight: bold;color: #416aef;"> FMC WEEKEND</span> - India's
+												Largest Digital Arts Fest to be commenced during
+												<span class="bold" style="font-weight: bold;color: #416aef;"> 10th to 12th February.</span>
+											</p>
+										</td>
+									</tr>
+
+									<tr>
+										<td style="padding: 0;">
+											<p style="line-height: 1.6;font-size: 16px !important;">
+												This time in its offline installation it's going to be
+												flooded with
+												<span class="bold" style="font-weight: bold;color: #416aef;">
+													massive participation and viewership.
+											</span></p>
+										</td>
+									</tr>
+
+									<tr>
+										<td style="padding: 0;">
+											<p style="line-height: 1.6;font-size: 16px !important; margin-top : 17px">
+												Participants from institutes such as
+												<span class="bold" style="font-weight: bold;color: #416aef;">IITs, NITs, NIFTs</span>, and other
+												major engineering and non engineering colleges in the
+												country have their heart poured in the events and
+												workshops which the fest crowns while them happening in
+												the presence of
+												<span class="bold" style="font-weight: bold;color: #416aef;">esteemed guests</span> who are big
+												names in fields of design, media, photography, animation
+												and cinematography.
+											</p>
+										</td>
+									</tr>
+
+									<tr>
+										<td style="padding: 0;">
+											<p style="line-height: 1.6;font-size: 16px !important;">
+												Surrounded by plenty of eyes we present you, for the
+												common benefit a chance to us for an awesome
+												<span class="bold" style="color: #FF8200;font-weight: bold;">
+													collaboration between your esteemed brand and the
+													fest.
+											</span></p>
+										</td>
+									</tr>
+
+									<tr>
+										<td style="padding: 0;">
+											<div style="margin-top : 17px">
+												<div style="display: inline; font-size : 16px; line-height: 160%;">
+													Please Look through our
+												</div>
+	
+												<a target="_blank" href="https://drive.google.com/file/d/1vyaBl5TJygL7SeTCWx0K5Ysg2Lyz-vUv/view?usp=share_link" style="text-decoration : none; ">
+													<div style="cursor : pointer; display: inline; padding : 6px 10px; background-color: #416aef; border-radius: 30px; position: relative;">
+														<p style="display: inline; font-weight: 600; color : white; font-size : 16px">proposal</p>
+													</div>
+												</a>
+
+												<div style="display: inline; font-size : 12px; color : #2054ff; padding: 6px; border : 1px solid #95adff; border-radius: 3px;">
+													<p style="display: inline; font-size : 12px">click the button to view proposal</p>
+												</div>
+												<div style="display: inline; font-size : 16px; line-height: 160%;">
+													furnishing why you must collaborate with us and how we
+													stand up to your benefit in the same, p.f.a the 
+													<a target="_blank" href="https://drive.google.com/file/d/1_xHQnlnYQpwiRPA1pul3wc4y5MOYZ9TQ/view?usp=share_link" style="text-decoration : none; ">
+														<div style="cursor : pointer; display: inline; padding : 6px 10px; background-color: #416aef; border-radius: 30px; position: relative;">
+															<p style="display: inline; font-weight: 600; color : white; font-size : 16px">brochure</p>
+														</div>
+													</a>
+													<div style="display: inline; font-size : 12px; color : #2054ff; padding: 6px; border : 1px solid #95adff; border-radius: 3px;">click the button to view brochure</div>
+													from which you may know a lot about the fest.
+												</div>
+											</div>
+										</td>
+									</tr>
+
+									<tr>
+										<td>
+											<p style="color : black; font-size : 16px; line-height: 160%; margin-top : 17px; font-weight: bold;">
+												Following are the slabs related to the collaboration, please take a look through it and let us know your thoughts on the same. 
+											</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<img src="https://ik.imagekit.io/uf7cmces1/normal-sponsors-slab-min_wXgDs71WH.png?ik-sdk-version=javascript-1.4.3&updatedAt=1674634022457" alt="" class="webkit" style="border: 0;max-width: 600px; width:100%;">
+										</td>
+									</tr>
+									<tr>
+										<td style="padding: 0;">
+												<p style="color: #2054ff;line-height: 1.6;font-size: 16px !important; font-weight: bold; margin : 10px 0">
+													Looking forward to hear from your brand to make this
+													happen!!!
+												</p>
+										</td>
+									</tr>
+
+									<tr>
+										<td style="padding: 0;">
+											<p style="color: #666;line-height: 1.6;font-size: 16px !important;">
+												<span style="color: #000">Regards</span> <br>
+												Karan Kumar Das <br>
+												Marketing Coordinator <br>
+												FMC Weekend '23 <br>
+												Ph. No - +91-6290922708 <br>
+												email - karankr.das.cse22@iitbhu.ac.in
+											</p>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</center>
+		</body>
+	</html>
+
+

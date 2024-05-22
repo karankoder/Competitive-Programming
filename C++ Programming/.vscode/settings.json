@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "random": "c",
+        "condition_variable": "cpp",
+        "codecvt": "cpp",
+        "signal.h": "c",
+        "regex": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp"
+    }
+}

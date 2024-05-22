@@ -1,0 +1,41 @@
+                                        ARITHMETIC OPERATOR              
+(a+b)++ is not possible as (a+b) unable to store any value
+Lexical analyser scans the whole source program and whne it founds the meaningful sequence of characters then it converts it into tokens.
+Ex- int a = 5;      here int   a    =    5     are lexemes 
+int a=4, b=3;
+    cout<<a+++b<<endl;      // output - 7
+    a=4; b=3;
+
+
+    cout<<a + ++b<<endl;    // output - 8    
+precedence in same operator is from left to right
+VVVVVVVVI- wherever there is 0 it's false and wherever is 1 it's true
+
+RELATIONAL OPERATORS - >,<,>=,<=,==......
+LOGICAL OPERARTORS -   &&,||,!
+bitwise operators - |,&,<<,>>,^,~
+1) | - following manipulation is done in the binary form- 
+    0 | 0 - 0
+    1 | 0 - 1
+    0 | 1 - 1
+    1 | 1 - 1
+    Ex - given in the code format
+2) & - following manipulation is done in the binary form- 
+    0 | 0 - 0
+    1 | 0 - 0
+    0 | 1 - 0
+    1 | 1 - 1
+    Ex - given in the code format
+3) << - Left shift bitwise operator - in this operator fist of all we have to convert the number in binary format then we have to shift it to the left by then number given on the right side.
+Ex - 5<<1 -> 0101  1010=10
+     5<<2 -> 0101  10100=20
+     Trick- Left shift is equivalent to multiplication by 2^right operand
+4) >> - Right shift bitwise operator - in this operator fist of all we have to convert the number in binary format then we have to shift it to the right by then number given on the right side.
+Ex - 5>>1 -> 0101  0010=2
+     5>>2 -> 0101  0001=1
+     Trick- Right shift is equivalent to division by 2^right operand
+5)- ^ - bitwise xor
+    0 | 0 - 0
+    1 | 0 - 1
+    0 | 1 - 1
+    1 | 1 - 0
